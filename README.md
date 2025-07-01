@@ -38,3 +38,19 @@ gantt
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
 ```
+
+```Mermaid 2
+flowchart LR
+    FUK --- YGT
+    SAG --- FUK
+    NGS --- SAG
+    FUK --- KMT
+    SAG --- KMT
+    KMT --- ASO
+    ASO --- MYZ
+    KMT --- KGS
+    KGS --- YKS
+    FUK --- YKS
+    OKN --- FUK
+    ISG --- FUK
+```
