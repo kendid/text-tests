@@ -48,7 +48,7 @@ flowchart LR
     NGS(長崎) --- SAG
     FUK --- KMT(熊本)
     SAG --- KMT
-    KMT --- ASO(麻生)
+    KMT --- ASO(阿蘇)
     ASO --- TCH(高千穂)
     TCH --- MYZ(宮崎)
     KMT --- KGS(鹿児島)
