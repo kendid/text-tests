@@ -45,7 +45,7 @@ gantt
 flowchart LR
     FUK(福岡) --- YGT(山口)
     SAG(佐賀) --- FUK
-    NGS() --- SAG
+    NGS(長崎) --- SAG
     FUK --- KMT(熊本)
     SAG --- KMT
     KMT --- ASO(麻生)
