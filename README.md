@@ -54,5 +54,10 @@ flowchart LR
     KGS --- YKS
     FUK --- YKS
     OKN --- FUK
+    OKN --- KMT
+    OKN --- KGS
     ISG --- FUK
+    ISG --- OKN
+    style KMT color:#aaa
+    style KGS color:#aaa
 ```
