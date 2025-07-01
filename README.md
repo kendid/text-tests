@@ -49,13 +49,16 @@ flowchart LR
     FUK --- KMT
     SAG --- KMT
     KMT --- ASO
-    ASO --- MYZ
+    ASO --- TCH
+    TCH --- MYZ
     KMT --- KGS
     KGS --- YKS
+    KGS --- MYZ
     FUK --- YKS
     OKN --- FUK
     OKN --- KMT
     OKN --- KGS
+    OKN --- MYZ
     ISG --- FUK
     ISG --- OKN
     style KMT color:#aaa
