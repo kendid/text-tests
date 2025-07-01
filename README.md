@@ -43,24 +43,25 @@ gantt
 
 ```mermaid
 flowchart LR
-    FUK(福岡) --- YGT
+    FUK(福岡) --- YGT(山口)
     SAG(佐賀) --- FUK
-    NGS --- SAG
-    FUK --- KMT
+    NGS() --- SAG
+    FUK --- KMT(熊本)
     SAG --- KMT
-    KMT --- ASO
-    ASO --- TCH
-    TCH --- MYZ
-    KMT --- KGS
-    KGS --- YKS
+    KMT --- ASO(麻生)
+    ASO --- TCH(高千穂)
+    TCH --- MYZ(宮崎)
+    KMT --- KGS(鹿児島)
+    KGS --- YKS(屋久島)
     KGS --- MYZ
     FUK --- YKS
-    OKN --- FUK
+    OKN(沖縄) --- FUK
     OKN --- KMT
     OKN --- KGS
     OKN --- MYZ
-    ISG --- FUK
+    ISG(石垣) --- FUK
     ISG --- OKN
     style KMT color:#aaa
     style KGS color:#aaa
+    style MYZ color:#aaa
 ```
