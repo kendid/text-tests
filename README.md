@@ -43,8 +43,8 @@ gantt
 
 ```mermaid
 flowchart LR
-    FUK --- YGT
-    SAG --- FUK
+    FUK(福岡) --- YGT
+    SAG(佐賀) --- FUK
     NGS --- SAG
     FUK --- KMT
     SAG --- KMT
