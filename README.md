@@ -39,7 +39,9 @@ gantt
     Add another diagram to demo page    :48h
 ```
 
-```Mermaid 2
+## Mermaid 2
+
+```mermaid
 flowchart LR
     FUK --- YGT
     SAG --- FUK
