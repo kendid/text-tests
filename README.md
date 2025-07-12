@@ -65,3 +65,36 @@ flowchart LR
     style KGS color:#aaa
     style MYZ color:#aaa
 ```
+
+## Mermaid Gantt
+
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD HH:mm
+    axisFormat %m-%d %H:%M
+
+section Ken
+    KMQ-PVG (MU558) 13#colon;30-15#colon;30 : 2024-10-03 04:30, 2024-10-03 07:30
+    KMQ-TPE (BR157) 11#colon;45-13#colon;55 : 2024-10-05 02:45, 2024-10-05 05:55
+
+    ICN-AUH (EY827) 00#colon;15-05#colon;50 : 2024-11-03 15:15, 2024-11-04 01:50
+    AUH-FRA (EY121) 02#colon;20-06#colon;10 : 2024-11-04 22:20, 2024-11-05 05:10
+
+section TWSK
+    TPE-NRT (GX802) 10#colon;40-15#colon;00 : 2024-10-12 02:40, 2024-10-12 06:00
+    TSA-HND (CI220) 09#colon;00-13#colon;10 : 2024-10-12 01:00, 2024-10-12 05:10
+
+    JR Beetle (JF316) 09#colon;00-12#colon;40 : 2024-10-27 00:40, 2024-10-27 04:40
+
+section Robinils
+    FRA-PVG (LH732) 20#colon;55-14#colon;50 : 2024-10-02 18:55, 2024-10-03 06:50
+    SHA-TSA (CI202) 16#colon;15-18#colon;15 : 2024-10-05 08:15, 2024-10-05 10:15
+    ICN-FRA (LH713) 12#colon;55-18#colon;45 : 2024-11-02 03:55, 2024-11-02 17:45
+
+section Jan
+    FRA-WAW (LO380) 19#colon;50-21#colon;35 : 2024-10-11 17:50, 2024-10-11 19:35
+    WAW-NRT (LO79) 22#colon;50-18#colon;30 : 2024-10-11 20:50, 2024-10-12 09:30
+    FUK-NRT (GK510) 15#colon;20-17#colon;10 : 2024-10-26 06:20, 2024-10-26 08:10
+    NRT-WAW (LO80) 21#colon;50-04#colon;40 : 2024-10-26 12:50, 2024-10-27 03:40
+    WAW-FRA (LO381) 07#colon;45-09#colon;45 : 2024-10-27 06:45, 2024-10-27 08:45
+```
