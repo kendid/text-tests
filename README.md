@@ -104,6 +104,8 @@ section Jan
 gantt
 ```mermaid
 gantt
+    dateFormat YYYY-MM-DD
+
 section Windchill 12.0.2.0
     PTC 12.0.2.0 : 2020-06-23, 2025-06-30
     IFConneX 2 30.x : 2024-05-27, 2026-12-31
