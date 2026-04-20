@@ -126,3 +126,29 @@ section Windchill 13.1.3.0
     13.1.3.0 : 2026-03-31, 2029-12-31
     IFConneX 2 33.x : 2026-02-28, 2029-12-31
 ```
+
+## Gantt 2
+
+gantt
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD
+
+section Windchill 12.0.2.0
+    PTC 12.0.0.0 : 2020-06-22, 2021-03-31
+    PTC 12.0.1.0 : 2020-12-15, 2021-09-30
+    PTC 12.0.2.0 : 2021-06-23, 2025-06-30
+```
+
+## Gantt 3
+
+gantt
+```mermaid
+gantt
+    dateFormat YYYY-MM-DD
+
+section Windchill 12.0.2.0
+    PTC 14.0.0.0 : 2026-10-15, 2030-10-31
+    PTC 14.0.1.0 : 2027-02-15, 2030-10-31
+    PTC 14.0.2.0 : 2027-06-15, 2030-10-31
+```
