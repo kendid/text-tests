@@ -175,7 +175,6 @@ section Windchill 14.1
 gantt
     title PTC Windchill versions
     dateFormat YYYY-MM-DD
-	todayMarker off
 
 section Windchill 12.0
     12.0.0.0 : 2020-06-22, 2021-03-31
@@ -199,12 +198,12 @@ section Windchill 13.1
     13.1.3.0 : 2026-02-17, 2029-10-31
     13.1.4.0 : 2026-06-15, 2029-10-31
 
-section Windchill 14
+section Windchill 14 (est.)
     14.0.0.0 : 2026-10-15, 2030-10-31
     14.0.1.0 : 2027-02-15, 2030-10-31
     14.0.2.0 : 2027-06-15, 2030-10-31
 
-section Windchill 14.1
+section Windchill 14.1 (est.)
     14.1.0.0 : 2027-10-15, 2031-10-31
     14.1.1.0 : 2028-02-15, 2031-10-31
     14.1.2.0 : 2028-06-15, 2031-10-31
